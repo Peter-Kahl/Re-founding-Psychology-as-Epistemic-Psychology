@@ -6,7 +6,7 @@
 
 by Peter Kahl, 21 September 2025
 
-![alt text](https://github.com/Peter-Kahl/Re-founding-Psychology-as-Epistemic-Psychology/blob/main/trump_tv.jpg?raw=true)
+![alt text](https://github.com/Peter-Kahl/Re-founding-Psychology-as-Epistemic-Psychology/blob/main/negotiation.jpg?raw=true)
 
 ### Abstract
 
