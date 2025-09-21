@@ -6,7 +6,7 @@
 
 by Peter Kahl, 21 September 2025
 
-![alt text](https://github.com/Peter-Kahl/Re-founding-Psychology-as-Epistemic-Psychology/blob/main/negotiation.jpg?raw=true)
+![Image with two silhouetted figures on opposite sides of a scale: one holding a lantern, the other holding an open hand. The balance beam tilts slightly, suggesting negotiation.](https://github.com/Peter-Kahl/Re-founding-Psychology-as-Epistemic-Psychology/blob/main/negotiation.jpg?raw=true)
 
 ### Abstract
 
