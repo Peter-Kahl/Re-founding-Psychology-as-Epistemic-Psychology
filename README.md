@@ -6,6 +6,8 @@
 
 by Peter Kahl, 21 September 2025
 
+DOI: 10.13140/RG.2.2.13825.72800
+
 ![Image with two silhouetted figures on opposite sides of a scale: one holding a lantern, the other holding an open hand. The balance beam tilts slightly, suggesting negotiation.](https://github.com/Peter-Kahl/Re-founding-Psychology-as-Epistemic-Psychology/blob/main/negotiation.jpg?raw=true)
 
 ### Abstract
@@ -33,7 +35,7 @@ This is a provisional draft circulated for discussion; readers are welcome to ci
 ### Cite this work
 
 ```
-Kahl, P. (2025). Re-founding psychology as epistemic psychology: From pathology to ontology: Dissonance, clientelism, and authority. Lex et Ratio Ltd. https://github.com/Peter-Kahl/Re-founding-Psychology-as-Epistemic-Psychology
+Kahl, P. (2025). Re-founding psychology as epistemic psychology: From pathology to ontology: Dissonance, clientelism, and authority. Lex et Ratio Ltd. GithHub: https://github.com/Peter-Kahl/Re-founding-Psychology-as-Epistemic-Psychology DOI: https://doi.org/10.13140/RG.2.2.13825.72800
 ```
 
 ### Publisher & Licence
