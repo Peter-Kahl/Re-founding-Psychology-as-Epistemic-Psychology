@@ -35,7 +35,7 @@ This is a provisional draft circulated for discussion; readers are welcome to ci
 ### Cite this work
 
 ```
-Kahl, P. (2025). Re-founding psychology as epistemic psychology: The science of autonomy and dependence under epistemic conditions: Dissonance, recognition, and authority as the grammar of social life. Lex et Ratio Ltd. GithHub: https://github.com/Peter-Kahl/Re-founding-Psychology-as-Epistemic-Psychology DOI: https://doi.org/10.13140/rg.2.2.13825.72800
+Kahl, P. (2025). Re-founding psychology as epistemic psychology: The science of autonomy and dependence under epistemic conditions: Dissonance, recognition, and authority as the grammar of social life. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Re-founding-Psychology-as-Epistemic-Psychology DOI: https://doi.org/10.13140/rg.2.2.13825.72800
 ```
 
 ### Publisher & Licence
