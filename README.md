@@ -2,8 +2,6 @@
 
 ### The Science of Autonomy and Dependence under Epistemic Conditions
 
-#### _Dissonance, Recognition, and Authority as the Grammar of Social Life_
-
 by Peter Kahl, 21 September 2025; 2nd ed. 22 September 2025
 
 DOI: 10.13140/RG.2.2.13825.72800
@@ -35,7 +33,7 @@ This is a provisional draft circulated for discussion; readers are welcome to ci
 ### Cite this work
 
 ```
-Kahl, P. (2025). Re-founding psychology as epistemic psychology: The science of autonomy and dependence under epistemic conditions: Dissonance, recognition, and authority as the grammar of social life. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Re-founding-Psychology-as-Epistemic-Psychology DOI: https://doi.org/10.13140/rg.2.2.13825.72800
+Kahl, P. (2025). Re-founding psychology as epistemic psychology: The science of autonomy and dependence under epistemic conditions. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Re-founding-Psychology-as-Epistemic-Psychology DOI: https://doi.org/10.13140/rg.2.2.13825.72800
 ```
 
 ### Publisher & Licence
