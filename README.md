@@ -4,8 +4,6 @@
 
 by Peter Kahl, 21 September 2025; 2nd ed. 22 September 2025
 
-DOI: 10.13140/RG.2.2.13825.72800
-
 ![Image with two silhouetted figures on opposite sides of a scale: one holding a lantern, the other holding an open hand. The balance beam tilts slightly, suggesting negotiation.](https://github.com/Peter-Kahl/Re-founding-Psychology-as-Epistemic-Psychology/blob/main/negotiation.jpg?raw=true)
 
 ### Abstract
@@ -33,7 +31,7 @@ This is a provisional draft circulated for discussion; readers are welcome to ci
 ### Cite this work
 
 ```
-Kahl, P. (2025). Re-founding psychology as epistemic psychology: The science of autonomy and dependence under epistemic conditions. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Re-founding-Psychology-as-Epistemic-Psychology DOI: https://doi.org/10.13140/rg.2.2.13825.72800
+Kahl, P. (2025). Re-founding psychology as epistemic psychology: The science of autonomy and dependence under epistemic conditions. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Re-founding-Psychology-as-Epistemic-Psychology
 ```
 
 ### Publisher & Licence
