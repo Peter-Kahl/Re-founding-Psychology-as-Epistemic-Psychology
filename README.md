@@ -32,9 +32,7 @@ This is a provisional draft circulated for discussion; readers are welcome to ci
 
 ### Cite this work
 
-```
-Kahl, P. (2025). Re-founding psychology as epistemic psychology: The science of autonomy and dependence under epistemic conditions (v2). Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Re-founding-Psychology-as-Epistemic-Psychology DOI: https://doi.org/10.5281/zenodo.17245416
-```
+Kahl, P. (2025). _Re-founding psychology as epistemic psychology: The science of autonomy and dependence under epistemic conditions_ (v2). Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Re-founding-Psychology-as-Epistemic-Psychology DOI: https://doi.org/10.5281/zenodo.17245416
 
 ### Publisher & Licence
 
