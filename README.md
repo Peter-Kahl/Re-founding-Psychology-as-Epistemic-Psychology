@@ -8,7 +8,7 @@ by Peter Kahl, 21 September 2025; v2: 2025-09-22
 
 ![Image with two silhouetted figures on opposite sides of a scale: one holding a lantern, the other holding an open hand. The balance beam tilts slightly, suggesting negotiation.](https://github.com/Peter-Kahl/Re-founding-Psychology-as-Epistemic-Psychology/blob/main/negotiation.jpg?raw=true)
 
-### Abstract
+## Abstract
 
 This paper advances a re-founding of psychology as epistemic psychology: the science of human autonomy and dependence under epistemic conditions. Building on earlier work, I argue that psychology has misclassified its own most robust findings. Cognitive dissonance, conformity, and obedience have been treated as anomalies—biases, irrationalities, or pathologies—because the discipline has assumed autonomy as normative and dependence as deviation. Reinterpreted, they are revealed as structural: dissonance as the affective disclosure of finitude, conformity as the exchange of autonomy for recognition, and obedience as authority redefining dissent as disobedience.
 
@@ -16,25 +16,23 @@ On this basis, the paper develops epistemic psychology as both diagnostic and no
 
 The claim is decisive: psychology must move from pathology to ontology, and from description to prescription. Epistemic psychology is both science and ethic, offering a discipline adequate to an age of disinformation, authoritarianism, institutional capture, and psychiatric injustice—an age in which not only the conditions of knowing, but also the conditions of care, must themselves be safeguarded.
 
-### Keywords
+## Keywords
 
 cognitive dissonance, epistemic clientelism, epistemic psychology, autonomy, dependence, recognition, authority, fiduciary scaffolds, epistemic justice, conformity, obedience, institutional architectures, disinformation
 
-### Working Paper Status
+## Working Paper Status
 
 This is a provisional draft circulated for discussion; readers are welcome to cite it, noting that revisions may follow in later versions.
 
----
-
-### Download
+## Download
 
 - [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Re-founding-Psychology-as-Epistemic-Psychology/master/Kahl_P_Re-founding_Psychology_as_Epistemic_Psychology_v2_2025-09-22.pdf)
 
-### Cite this work
+## Cite this work
 
 Kahl, P. (2025). _Re-founding psychology as epistemic psychology: The science of autonomy and dependence under epistemic conditions_ (v2). Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Re-founding-Psychology-as-Epistemic-Psychology DOI: https://doi.org/10.5281/zenodo.17245416
 
-### Publisher & Licence
+## Publisher & Licence
 
 First published in London by Lex et Ratio Ltd, 21 September 2025.\
 v2 published in London by Lex et Ratio Ltd, 22 September 2025.
