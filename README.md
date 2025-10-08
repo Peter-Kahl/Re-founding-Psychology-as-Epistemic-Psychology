@@ -2,9 +2,9 @@
 
 ### The Science of Autonomy and Dependence under Epistemic Conditions
 
-by Peter Kahl, 21 September 2025; v2: 22 September 2025
+by Peter Kahl, 21 September 2025; v2: 2025-09-22
 
-DOI: [10.5281/zenodo.17245416](https://doi.org/10.5281/zenodo.17245416)
+[![Generic badge](https://img.shields.io/badge/DOI%3A-10.5281%2Fzenodo.17245416-blue.svg)](https://doi.org/10.5281/zenodo.17245416)
 
 ![Image with two silhouetted figures on opposite sides of a scale: one holding a lantern, the other holding an open hand. The balance beam tilts slightly, suggesting negotiation.](https://github.com/Peter-Kahl/Re-founding-Psychology-as-Epistemic-Psychology/blob/main/negotiation.jpg?raw=true)
 
