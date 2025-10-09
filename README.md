@@ -2,9 +2,9 @@
 
 ### The Science of Autonomy and Dependence under Epistemic Conditions
 
-by Peter Kahl, 21 September 2025; v2: 2025-09-22
+by Peter Kahl, 2025-09-21; v2: 2025-09-22
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17245416.svg)](https://doi.org/10.5281/zenodo.17245416)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17245416.svg)](https://doi.org/10.5281/zenodo.17245416) [![Generic badge](https://img.shields.io/badge/ORCID-0009.0003.1616.4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
 ![Image with two silhouetted figures on opposite sides of a scale: one holding a lantern, the other holding an open hand. The balance beam tilts slightly, suggesting negotiation.](https://github.com/Peter-Kahl/Re-founding-Psychology-as-Epistemic-Psychology/blob/main/negotiation.jpg?raw=true)
 
@@ -34,8 +34,8 @@ Kahl, P. (2025). _Re-founding psychology as epistemic psychology: The science of
 
 ## Publisher & Licence
 
-First published in London by Lex et Ratio Ltd, 21 September 2025.\
-v2 published in London by Lex et Ratio Ltd, 22 September 2025.
+First published in London by Lex et Ratio Ltd, 2025-09-21.\
+v2 published in London by Lex et Ratio Ltd, 2025-09-22.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
 You may share this work for non-commercial purposes with attribution and without modification.\
